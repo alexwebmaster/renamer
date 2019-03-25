@@ -1,0 +1,19 @@
+{
+  "name": "renamer",
+  "version": "1.0.0",
+  "description": "File Renamer Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "File rename",
+    "Batch rename"
+  ],
+  "author": "Alex Gomes",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^4.1.1"
+  }
+}
